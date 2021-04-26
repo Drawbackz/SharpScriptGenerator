@@ -5,5 +5,3 @@ Drag a C# project directory onto SharpScriptGenerator.exe to create a "SharpScri
 Any library .dll files will need to be in the project folder.
 
 This has been tested with both console and winform projects.
-
-Additional features such as debugging will be available in the future.
